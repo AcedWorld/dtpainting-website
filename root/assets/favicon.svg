@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DT Painting favicon">
+  <rect width="64" height="64" rx="14" fill="#9b4b25"/>
+  <path d="M14 18h36v8H14z" fill="#fffaf3"/>
+  <path d="M18 30h28v7H18z" fill="#fffaf3" opacity=".88"/>
+  <path d="M22 41h20v6H22z" fill="#fffaf3" opacity=".76"/>
+</svg>
